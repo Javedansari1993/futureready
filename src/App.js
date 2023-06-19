@@ -93,7 +93,7 @@ function App() {
             <img
               className="p-2"
               src={ractangle}
-              style={{ width: 100, height: 100 }}
+              style={{ width: 50, height: 50 }}
               alt=""
             />
             <h6>Short Film Submission Period:</h6>
@@ -104,7 +104,7 @@ function App() {
             <img
               className="p-2"
               src={watch}
-              style={{ width: 100, height: 100 }}
+              style={{ width: 50, height: 50 }}
               alt=""
             />
             <h6>Short Film Submission Period:</h6>
@@ -115,7 +115,7 @@ function App() {
             <img
               className="p-2"
               src={rectangle3}
-              style={{ width: 100, height: 100 }}
+              style={{ width: 50, height: 50 }}
               alt=""
             />
             <h6>Short Film Submission Period:</h6>
@@ -126,7 +126,7 @@ function App() {
             <img
               className="p-2"
               src={rectangle4}
-              style={{ width: 100, height: 100 }}
+              style={{ width: 50, height: 50 }}
               alt=""
             />
             <h6>Short Film Submission Period:</h6>
@@ -137,7 +137,7 @@ function App() {
             <img
               className="p-2"
               src={rectangle5}
-              style={{ width: 100, height: 100 }}
+              style={{ width: 50, height: 50 }}
               alt=""
             />
           </div>
@@ -157,7 +157,7 @@ function App() {
             <img
               className="p-2"
               src={rectangle6}
-              style={{ width: 100, height: 100 }}
+              style={{ width: 50, height: 50 }}
               alt=""
             />
             <h6>Short Film Submission Period:</h6>
@@ -168,7 +168,7 @@ function App() {
             <img
               className="p-2"
               src={rectangle7}
-              style={{ width: 100, height: 100 }}
+              style={{ width: 50, height: 50 }}
               alt=""
             />
             <h6>Short Film Submission Period:</h6>
@@ -179,7 +179,7 @@ function App() {
             <img
               className="p-2"
               src={rectangle8}
-              style={{ width: 100, height: 100 }}
+              style={{ width: 50, height: 50 }}
               alt=""
             />
             <h6>Short Film Submission Period:</h6>
